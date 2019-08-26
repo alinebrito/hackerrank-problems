@@ -1,3 +1,7 @@
+#output
+*.out
+*.exe
+
 # Prerequisites
 *.d
 
